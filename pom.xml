@@ -40,6 +40,7 @@
   </dependencies>
 
   <build>
+    </finalName>java-demo</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
