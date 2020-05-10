@@ -82,5 +82,11 @@
         </executions>
       </plugin>
     </plugins>
-  </build>
+</build>
+    <modules>
+        <module>demo-core</module>
+        <module>demo-package-jar</module>
+        <module>demo-package-war</module>
+        <module>demo-package-war-wildfly</module>
+    </modules>
 </project>
